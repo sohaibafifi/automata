@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.Properties.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.StartUp.resources
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.DfaCreation.resources
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\bin\Debug\Automate.exe
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\bin\Debug\Automate.pdb
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automate.exe
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automate.pdb
+C:\Documents and Settings\Administrateur\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\bin\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\bin\Debug\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Debug\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\bin\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\bin\Debug\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Debug\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Debug\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\bin\Debug\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\bin\Debug\Automate.pdb

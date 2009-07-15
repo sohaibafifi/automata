@@ -1,0 +1,10 @@
+type: Dfa
+alphabet: 0 1 2
+states: 3
+initial state: 0
+final states: 2 
+instructions:
+(S0,0,S1)
+(S1,0,S0)
+(S1,1,S2)
+(S2,0,S0)

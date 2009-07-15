@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Automata" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AHASAAAAFEAAIgRIACIkgAQIERIAAACBAAAAGSKJSEI=</HashCode>
+      <FileName>Automata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.AutomateReader">
+    <Position X="0.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutomateReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.AutomateSaver">
+    <Position X="0.5" Y="6.75" Width="6" />
+    <NestedTypes>
+      <Enum Name="Automates.AutomateSaver.AutomtateSaveResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AutomateSaver.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutomateSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Dfa">
+    <Position X="9" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AGACAAABBEBAAARAAAAgoAAAUBAEAoAABAACACEAAAI=</HashCode>
+      <FileName>Dfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.DfaCreation">
+    <Position X="21.5" Y="1.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>QEQAJgIBAAhIoNckAILQAAgCCAyMgYCAACiERUFIAAg=</HashCode>
+      <FileName>DfaCreation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Gfa">
+    <Position X="0.5" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEASACABBEAAAARAACAAgAAgEAAAAAAAAAAACAAAAAI=</HashCode>
+      <FileName>Gfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.GfaInstruction">
+    <Position X="9" Y="8" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAEAgAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GfaInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Grammer" Collapsed="true">
+    <Position X="26.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgIAIBAAAAACEAGAgAAwgABAIAAAAgAAAAADQQQA=</HashCode>
+      <FileName>Grammer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Instruction">
+    <Position X="13.25" Y="6" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAEAgAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.main" Collapsed="true">
+    <Position X="26.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>E6DOAFkC4WBNSUzIFDGAAtByEtAIQSmaRCDEDMT9pI4=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Nfa">
+    <Position X="4.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQACABBAAAAARAAAAAgAgAEAAAAAAABAAAAAAAAAI=</HashCode>
+      <FileName>Nfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.NfaCreation">
+    <Position X="17" Y="1.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>QEAAJgIBAAhYoNckAILQAAACCAiMgYCAACiETUFIAAg=</HashCode>
+      <FileName>NfaCreation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.PGfa">
+    <Position X="13.25" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AFASACABBAAAAARAAAAAgAAAEAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>PGfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Program" Collapsed="true">
+    <Position X="26.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Splash" Collapsed="true">
+    <Position X="26.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAACAAAACAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Splash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.workspace">
+    <Position X="2.5" Y="8.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>workspace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Properties.Resources" Collapsed="true">
+    <Position X="26.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBEExI2A5xQBBAYAAEABFwhCARQBACCAAAANADACIoA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automates.Properties.Settings" Collapsed="true">
+    <Position X="26.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Automates.Auto">
+    <Position X="13.25" Y="8.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>workspace.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

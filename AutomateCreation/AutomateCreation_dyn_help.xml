@@ -1,0 +1,4901 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="AutomateCreation" Title="Automate Rapport Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrf.html" LinkGroup="AutomateCreation"> , espace de noms</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.A" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassATopic.html" LinkGroup="AutomateCreation">A , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Actualiser_icon_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassActualiser_icon_ClickTopic.html" LinkGroup="AutomateCreation">Actualiser_icon_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.AddFinalState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassAddFinalStateTopic.html" LinkGroup="AutomateCreation">AddFinalState , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassAddInstructionTopic4_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassAddInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassAddInstructionTopic3_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassAddInstructionTopic3_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassAddInstructionTopic4_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassAddInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassAddInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassAddInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassAddInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassAddInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassAddInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassAddInstructionTopic3_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassAddInstructionTopic3_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.AddInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassAddInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">AddInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.AddLetter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassAddLetterTopic.html" LinkGroup="AutomateCreation">AddLetter , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.AddProduction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassAddProductionTopic.html" LinkGroup="AutomateCreation">AddProduction , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.AddState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassAddStateTopic.html" LinkGroup="AutomateCreation">AddState , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.AddVariable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassAddVariableTopic.html" LinkGroup="AutomateCreation">AddVariable , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.AfficherGrammair" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassAfficherGrammairTopic.html" LinkGroup="AutomateCreation">AfficherGrammair , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Afficher_grid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassAfficher_gridTopic.html" LinkGroup="AutomateCreation">Afficher_grid , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Ajouter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassAjouterTopic.html" LinkGroup="AutomateCreation">Ajouter , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Ajouter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassAjouterTopic.html" LinkGroup="AutomateCreation">Ajouter , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.AjouterDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAjouterDfaTopic.html" LinkGroup="AutomateCreation">AjouterDfa , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.AjouterGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAjouterGfaTopic.html" LinkGroup="AutomateCreation">AjouterGfa , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.AjouterNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAjouterNfaTopic.html" LinkGroup="AutomateCreation">AjouterNfa , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.AjouterPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAjouterPGfaTopic.html" LinkGroup="AutomateCreation">AjouterPGfa , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Ajouter_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassAjouter_ClickTopic.html" LinkGroup="AutomateCreation">Ajouter_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Ajouter_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassAjouter_ClickTopic.html" LinkGroup="AutomateCreation">Ajouter_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.ArrayListEquals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassArrayListEqualsTopic.html" LinkGroup="AutomateCreation">ArrayListEquals , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.AutType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassAutTypeTopic.html" LinkGroup="AutomateCreation">AutType , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Auto.Auto" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutoClassctorTopic.html" LinkGroup="AutomateCreation">Auto , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Auto" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutoClassTopic.html" LinkGroup="AutomateCreation">Auto , structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.AutoImage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassAutoImageTopic.html" LinkGroup="AutomateCreation">AutoImage , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassTopic.html" LinkGroup="AutomateCreation">Automata , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Auto.Automate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutoClassAutomateTopic.html" LinkGroup="AutomateCreation">Automate , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateReader" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateReaderClassTopic.html" LinkGroup="AutomateCreation">AutomateReader , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateSaver" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateSaverClassTopic.html" LinkGroup="AutomateCreation">AutomateSaver , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateSaver.AutomateSaver" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateSaverClassctorTopic.html" LinkGroup="AutomateCreation">AutomateSaver , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomates.html" LinkGroup="AutomateCreation">Automates , espace de noms</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesProperties.html" LinkGroup="AutomateCreation">Automates.Properties , espace de noms</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_list" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_listTopic.html" LinkGroup="AutomateCreation">Automates_list , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_AfterSelect" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_AfterSelectTopic.html" LinkGroup="AutomateCreation">Automates_tree_AfterSelect , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_ClickTopic.html" LinkGroup="AutomateCreation">Automates_tree_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_DoubleClickTopic.html" LinkGroup="AutomateCreation">Automates_tree_DoubleClick , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_MouseClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_MouseClickTopic.html" LinkGroup="AutomateCreation">Automates_tree_MouseClick , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_MouseClick_1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_MouseClick_1Topic.html" LinkGroup="AutomateCreation">Automates_tree_MouseClick_1 , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_MouseClick_2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_MouseClick_2Topic.html" LinkGroup="AutomateCreation">Automates_tree_MouseClick_2 , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Automates_tree_MouseHover" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassAutomates_tree_MouseHoverTopic.html" LinkGroup="AutomateCreation">Automates_tree_MouseHover , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateSaver.AutomtateSaveResult" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateSaverAutomtateSaveResultClassTopic.html" LinkGroup="AutomateCreation">AutomtateSaveResult , énumération</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.B" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassBTopic.html" LinkGroup="AutomateCreation">B , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Closure" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassClosureTopic.html" LinkGroup="AutomateCreation">Closure , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.CoAccessible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassCoAccessibleTopic.html" LinkGroup="AutomateCreation">CoAccessible , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Co_Accessible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassCo_AccessibleTopic.html" LinkGroup="AutomateCreation">Co_Accessible , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Concatenation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassConcatenationTopic.html" LinkGroup="AutomateCreation">Concatenation , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.CopytoF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassCopytoFTopic.html" LinkGroup="AutomateCreation">CopytoF , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.CopytoF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassCopytoFTopic.html" LinkGroup="AutomateCreation">CopytoF , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.CopytoF_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassCopytoF_ClickTopic.html" LinkGroup="AutomateCreation">CopytoF_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.CopytoF_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassCopytoF_ClickTopic.html" LinkGroup="AutomateCreation">CopytoF_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.CrystalBlue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassCrystalBlueTopic.html" LinkGroup="AutomateCreation">CrystalBlue , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.Culture" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassCultureTopic.html" LinkGroup="AutomateCreation">Culture , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Settings.Default" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesSettingsClassDefaultTopic.html" LinkGroup="AutomateCreation">Default , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Dessin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassDessinTopic.html" LinkGroup="AutomateCreation">Dessin , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.DessinChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassDessinChangedTopic.html" LinkGroup="AutomateCreation">DessinChanged , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.DessinRight_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDessinRight_ClickTopic.html" LinkGroup="AutomateCreation">DessinRight_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Dfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">Dfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Dfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassctorTopic3_overloads+.html" LinkGroup="AutomateCreation">Dfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Dfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">Dfa </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassTopic.html" LinkGroup="AutomateCreation">Dfa , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassTopic.html" LinkGroup="AutomateCreation">DfaCreation , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.DfaCreation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassctorTopic.html" LinkGroup="AutomateCreation">DfaCreation , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.Dfa_CV" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassDfa_CVTopic.html" LinkGroup="AutomateCreation">Dfa_CV , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Dfa_creation_Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassDfa_creation_LoadTopic.html" LinkGroup="AutomateCreation">Dfa_creation_Load , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Draw" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassDrawTopic.html" LinkGroup="AutomateCreation">Draw , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_DragEnter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_DragEnterTopic.html" LinkGroup="AutomateCreation">Drawpanel_DragEnter , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_MouseClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_MouseClickTopic.html" LinkGroup="AutomateCreation">Drawpanel_MouseClick , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_MouseDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_MouseDownTopic.html" LinkGroup="AutomateCreation">Drawpanel_MouseDown , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_MouseHover" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_MouseHoverTopic.html" LinkGroup="AutomateCreation">Drawpanel_MouseHover , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_MouseMove" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_MouseMoveTopic.html" LinkGroup="AutomateCreation">Drawpanel_MouseMove , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_MouseUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_MouseUpTopic.html" LinkGroup="AutomateCreation">Drawpanel_MouseUp , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Drawpanel_Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassDrawpanel_PaintTopic.html" LinkGroup="AutomateCreation">Drawpanel_Paint , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.EPSILON" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassEPSILONTopic.html" LinkGroup="AutomateCreation">EPSILON , constante</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassEqualsTopic.html" LinkGroup="AutomateCreation">Equals , méthode {Automates.GfaInstruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.Equals" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassEqualsTopic.html" LinkGroup="AutomateCreation">Equals , méthode {Automates.Instruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsFList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsFListTopic.html" LinkGroup="AutomateCreation">EtatsFList , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsFList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsFListTopic.html" LinkGroup="AutomateCreation">EtatsFList , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsFList_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsFList_DoubleClickTopic.html" LinkGroup="AutomateCreation">EtatsFList_DoubleClick , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsFList_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsFList_DoubleClickTopic.html" LinkGroup="AutomateCreation">EtatsFList_DoubleClick , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsFList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsFList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">EtatsFList_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsFList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsFList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">EtatsFList_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsListTopic.html" LinkGroup="AutomateCreation">EtatsList , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsListTopic.html" LinkGroup="AutomateCreation">EtatsList , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsList_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsList_DoubleClickTopic.html" LinkGroup="AutomateCreation">EtatsList_DoubleClick , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsList_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsList_DoubleClickTopic.html" LinkGroup="AutomateCreation">EtatsList_DoubleClick , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.EtatsList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassEtatsList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">EtatsList_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.EtatsList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassEtatsList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">EtatsList_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.F" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassFTopic.html" LinkGroup="AutomateCreation">F , champ</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.Gfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">Gfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.Gfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">Gfa </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassTopic.html" LinkGroup="AutomateCreation">Gfa , classe</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.GfaInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">GfaInstruction </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.GfaInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">GfaInstruction </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassTopic.html" LinkGroup="AutomateCreation">GfaInstruction , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.Gfa_CV" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassGfa_CVTopic.html" LinkGroup="AutomateCreation">Gfa_CV , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.GrammaireRight_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassGrammaireRight_ClickTopic.html" LinkGroup="AutomateCreation">GrammaireRight_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.Grammer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">Grammer </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.Grammer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">Grammer </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassTopic.html" LinkGroup="AutomateCreation">Grammer , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.GrammerRTF_TextChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassGrammerRTF_TextChangedTopic.html" LinkGroup="AutomateCreation">GrammerRTF_TextChanged , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.I" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassITopic.html" LinkGroup="AutomateCreation">I , champ {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.I" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassITopic.html" LinkGroup="AutomateCreation">I , champ {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.InAlphabet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassInAlphabetTopic.html" LinkGroup="AutomateCreation">InAlphabet , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Info" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassInfoTopic.html" LinkGroup="AutomateCreation">Info , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassInitITopic_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassInitITopic_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassInitITopic_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassInitITopic2_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassInitITopic2_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.InitI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassInitITopic2_overloads+.html" LinkGroup="AutomateCreation">InitI , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Init_grid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassInit_gridTopic.html" LinkGroup="AutomateCreation">Init_grid , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.InitializeComponent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassInitializeComponentTopic.html" LinkGroup="AutomateCreation">InitializeComponent , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.InitializeComponent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassInitializeComponentTopic.html" LinkGroup="AutomateCreation">InitializeComponent , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.InstrTabToArrayList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassInstrTabToArrayListTopic.html" LinkGroup="AutomateCreation">InstrTabToArrayList , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassTopic.html" LinkGroup="AutomateCreation">Instruction , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.Instruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassctorTopic.html" LinkGroup="AutomateCreation">Instruction , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Intersect" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassIntersectTopic.html" LinkGroup="AutomateCreation">Intersect , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.ItoString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassItoStringTopic.html" LinkGroup="AutomateCreation">ItoString , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.ItoStringTriplet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassItoStringTripletTopic.html" LinkGroup="AutomateCreation">ItoStringTriplet , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Program.Main" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesProgramClassMainTopic.html" LinkGroup="AutomateCreation">Main , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Menu_ItemClicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassMenu_ItemClickedTopic.html" LinkGroup="AutomateCreation">Menu_ItemClicked , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Modifier1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassModifier1Topic.html" LinkGroup="AutomateCreation">Modifier1 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Modifier1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassModifier1Topic.html" LinkGroup="AutomateCreation">Modifier1 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Modifier1_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassModifier1_ClickTopic.html" LinkGroup="AutomateCreation">Modifier1_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Modifier1_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassModifier1_ClickTopic.html" LinkGroup="AutomateCreation">Modifier1_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Mot_test_TextChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassMot_test_TextChangedTopic.html" LinkGroup="AutomateCreation">Mot_test_TextChanged , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.NOVARIABLE" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassNOVARIABLETopic.html" LinkGroup="AutomateCreation">NOVARIABLE , constante</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassNameTopic.html" LinkGroup="AutomateCreation">Name , champ {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassNameTopic.html" LinkGroup="AutomateCreation">Name , champ {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Name_box" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassName_boxTopic.html" LinkGroup="AutomateCreation">Name_box , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Name_box" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassName_boxTopic.html" LinkGroup="AutomateCreation">Name_box , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Name_box_TextChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassName_box_TextChangedTopic.html" LinkGroup="AutomateCreation">Name_box_TextChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Name_box_TextChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassName_box_TextChangedTopic.html" LinkGroup="AutomateCreation">Name_box_TextChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.NbEtatLabel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassNbEtatLabelTopic.html" LinkGroup="AutomateCreation">NbEtatLabel , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.NbEtatLabel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassNbEtatLabelTopic.html" LinkGroup="AutomateCreation">NbEtatLabel , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Nbetats" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassNbetatsTopic.html" LinkGroup="AutomateCreation">Nbetats , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Nbetats" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassNbetatsTopic.html" LinkGroup="AutomateCreation">Nbetats , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Nbetats_ValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassNbetats_ValueChangedTopic.html" LinkGroup="AutomateCreation">Nbetats_ValueChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Nbetats_ValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassNbetats_ValueChangedTopic.html" LinkGroup="AutomateCreation">Nbetats_ValueChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.Nfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">Nfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.Nfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">Nfa </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassTopic.html" LinkGroup="AutomateCreation">Nfa , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassTopic.html" LinkGroup="AutomateCreation">NfaCreation , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.NfaCreation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassctorTopic.html" LinkGroup="AutomateCreation">NfaCreation , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.Nfa_CV" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassNfa_CVTopic.html" LinkGroup="AutomateCreation">Nfa_CV , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Nfa_creation_Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassNfa_creation_LoadTopic.html" LinkGroup="AutomateCreation">Nfa_creation_Load , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.OpenRight_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassOpenRight_ClickTopic.html" LinkGroup="AutomateCreation">OpenRight_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.P" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassPTopic.html" LinkGroup="AutomateCreation">P , champ</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.PGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">PGfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.PGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassctorTopic3_overloads+.html" LinkGroup="AutomateCreation">PGfa </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.PGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">PGfa </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassTopic.html" LinkGroup="AutomateCreation">PGfa , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.PGfa_CV" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassPGfa_CVTopic.html" LinkGroup="AutomateCreation">PGfa_CV , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Pellipse_MouseHover" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassPellipse_MouseHoverTopic.html" LinkGroup="AutomateCreation">Pellipse_MouseHover , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.ProductionRule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassctorTopic2_overloads+.html" LinkGroup="AutomateCreation">ProductionRule </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.ProductionRule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassctorTopic_overloads+.html" LinkGroup="AutomateCreation">ProductionRule </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassTopic.html" LinkGroup="AutomateCreation">ProductionRule , structure</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Program" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesProgramClassTopic.html" LinkGroup="AutomateCreation">Program , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.RdStateCorTab" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassRdStateCorTabTopic.html" LinkGroup="AutomateCreation">RdStateCorTab , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Rd_StoString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassRd_StoStringTopic.html" LinkGroup="AutomateCreation">Rd_StoString , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.Read" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassReadTopic.html" LinkGroup="AutomateCreation">Read , champ {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.Read" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassReadTopic.html" LinkGroup="AutomateCreation">Read , champ {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Recognize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassRecognizeTopic.html" LinkGroup="AutomateCreation">Recognize , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.Recognize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassRecognizeTopic.html" LinkGroup="AutomateCreation">Recognize , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.Recognize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassRecognizeTopic.html" LinkGroup="AutomateCreation">Recognize , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.Recognize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassRecognizeTopic.html" LinkGroup="AutomateCreation">Recognize , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.Recognize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassRecognizeTopic.html" LinkGroup="AutomateCreation">Recognize , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.RemoveAllInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassRemoveAllInstructionsTopic.html" LinkGroup="AutomateCreation">RemoveAllInstructions , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.RemoveAllInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassRemoveAllInstructionsTopic.html" LinkGroup="AutomateCreation">RemoveAllInstructions , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.RemoveAllInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassRemoveAllInstructionsTopic.html" LinkGroup="AutomateCreation">RemoveAllInstructions , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.RemoveFinalState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassRemoveFinalStateTopic.html" LinkGroup="AutomateCreation">RemoveFinalState , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassRemoveInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassRemoveInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassRemoveInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassRemoveInstructionTopic2_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassRemoveInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassRemoveInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassRemoveInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.RemoveInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassRemoveInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">RemoveInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.RemoveProduction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassRemoveProductionTopic.html" LinkGroup="AutomateCreation">RemoveProduction , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.ResourceManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassResourceManagerTopic.html" LinkGroup="AutomateCreation">ResourceManager , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassTopic.html" LinkGroup="AutomateCreation">Resources , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.Resources" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassctorTopic.html" LinkGroup="AutomateCreation">Resources , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.RmF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassRmFTopic.html" LinkGroup="AutomateCreation">RmF , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.RmF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassRmFTopic.html" LinkGroup="AutomateCreation">RmF , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.RmF_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassRmF_ClickTopic.html" LinkGroup="AutomateCreation">RmF_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.RmF_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassRmF_ClickTopic.html" LinkGroup="AutomateCreation">RmF_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.RmX" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassRmXTopic.html" LinkGroup="AutomateCreation">RmX , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.RmX" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassRmXTopic.html" LinkGroup="AutomateCreation">RmX , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.RmX_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassRmX_ClickTopic.html" LinkGroup="AutomateCreation">RmX_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.RmX_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassRmX_ClickTopic.html" LinkGroup="AutomateCreation">RmX_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.S" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassSTopic.html" LinkGroup="AutomateCreation">S , champ {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.S" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassSTopic.html" LinkGroup="AutomateCreation">S , champ {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.S0" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassS0Topic.html" LinkGroup="AutomateCreation">S0 , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSITopic.html" LinkGroup="AutomateCreation">SI , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SI" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSITopic.html" LinkGroup="AutomateCreation">SI , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SI_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSI_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SI_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SI_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSI_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SI_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSJTopic.html" LinkGroup="AutomateCreation">SJ , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SJ" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSJTopic.html" LinkGroup="AutomateCreation">SJ , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SJ_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSJ_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SJ_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SJ_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSJ_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SJ_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateSaver.Save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateSaverClassSaveTopic2_overloads+.html" LinkGroup="AutomateCreation">Save , méthode</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateSaver.Save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateSaverClassSaveTopic_overloads+.html" LinkGroup="AutomateCreation">Save , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Save_ws_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassSave_ws_ClickTopic.html" LinkGroup="AutomateCreation">Save_ws_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Selected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassSelectedTopic.html" LinkGroup="AutomateCreation">Selected , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.SetStateNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassSetStateNumberTopic.html" LinkGroup="AutomateCreation">SetStateNumber , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Settings" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesSettingsClassTopic.html" LinkGroup="AutomateCreation">Settings , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.Si" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassSiTopic.html" LinkGroup="AutomateCreation">Si , champ {Automates.GfaInstruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.Si" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassSiTopic.html" LinkGroup="AutomateCreation">Si , champ {Automates.Instruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SiXSj" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSiXSjTopic.html" LinkGroup="AutomateCreation">SiXSj , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SiXSj" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSiXSjTopic.html" LinkGroup="AutomateCreation">SiXSj , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.SiXSj_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassSiXSj_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SiXSj_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.SiXSj_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassSiXSj_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">SiXSj_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.Sj" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassSjTopic.html" LinkGroup="AutomateCreation">Sj , champ {Automates.GfaInstruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.Sj" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassSjTopic.html" LinkGroup="AutomateCreation">Sj , champ {Automates.Instruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.SortInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassSortInstructionsTopic.html" LinkGroup="AutomateCreation">SortInstructions , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.SortInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassSortInstructionsTopic.html" LinkGroup="AutomateCreation">SortInstructions , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.SortInstructions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassSortInstructionsTopic.html" LinkGroup="AutomateCreation">SortInstructions , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.Splash" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassSplashTopic.html" LinkGroup="AutomateCreation">Splash , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.StCorTab" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassStCorTabTopic.html" LinkGroup="AutomateCreation">StCorTab , champ {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.StCorTab" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClassStCorTabTopic.html" LinkGroup="AutomateCreation">StCorTab , champ {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.TYPE" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataTYPEClassTopic.html" LinkGroup="AutomateCreation">TYPE , énumération</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.ToInt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassToIntTopic.html" LinkGroup="AutomateCreation">ToInt , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.ToInt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassToIntTopic.html" LinkGroup="AutomateCreation">ToInt , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Auto.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutoClassToStringTopic.html" LinkGroup="AutomateCreation">ToString , méthode {Automates.Auto}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassToStringTopic.html" LinkGroup="AutomateCreation">ToString , méthode {Automates.GfaInstruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassToStringTopic.html" LinkGroup="AutomateCreation">ToString , méthode {Automates.Grammer.ProductionRule}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassToStringTopic.html" LinkGroup="AutomateCreation">ToString , méthode {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassToStringTopic.html" LinkGroup="AutomateCreation">ToString , méthode {Automates.Instruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.ToX" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassToXTopic.html" LinkGroup="AutomateCreation">ToX , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.ToX" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassToXTopic.html" LinkGroup="AutomateCreation">ToX , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.ToX_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassToX_ClickTopic.html" LinkGroup="AutomateCreation">ToX_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.ToX_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassToX_ClickTopic.html" LinkGroup="AutomateCreation">ToX_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.Tracer_btn_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassTracer_btn_ClickTopic.html" LinkGroup="AutomateCreation">Tracer_btn_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.Tree_bg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassTree_bgTopic.html" LinkGroup="AutomateCreation">Tree_bg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.Tree_bg1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassTree_bg1Topic.html" LinkGroup="AutomateCreation">Tree_bg1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.Union" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassUnionTopic.html" LinkGroup="AutomateCreation">Union , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.UserDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassUserDfaTopic.html" LinkGroup="AutomateCreation">UserDfa , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.UserNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassUserNfaTopic.html" LinkGroup="AutomateCreation">UserNfa , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.V" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassVTopic.html" LinkGroup="AutomateCreation">V , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Valide1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassValide1Topic.html" LinkGroup="AutomateCreation">Valide1 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Valide1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassValide1Topic.html" LinkGroup="AutomateCreation">Valide1 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Valide1_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassValide1_ClickTopic.html" LinkGroup="AutomateCreation">Valide1_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Valide1_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassValide1_ClickTopic.html" LinkGroup="AutomateCreation">Valide1_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Valider2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassValider2Topic.html" LinkGroup="AutomateCreation">Valider2 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Valider2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassValider2Topic.html" LinkGroup="AutomateCreation">Valider2 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Valider2_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassValider2_ClickTopic.html" LinkGroup="AutomateCreation">Valider2_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Valider2_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassValider2_ClickTopic.html" LinkGroup="AutomateCreation">Valider2_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.ProductionRule.W" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerProductionRuleClassWTopic.html" LinkGroup="AutomateCreation">W , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.X" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassXTopic.html" LinkGroup="AutomateCreation">X , champ {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.X" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassXTopic.html" LinkGroup="AutomateCreation">X , champ {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.GfaInstruction.Xi" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaInstructionClassXiTopic.html" LinkGroup="AutomateCreation">Xi , champ {Automates.GfaInstruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Instruction.Xi" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesInstructionClassXiTopic.html" LinkGroup="AutomateCreation">Xi , champ {Automates.Instruction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Xlist" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassXlistTopic.html" LinkGroup="AutomateCreation">Xlist , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Xlist" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassXlistTopic.html" LinkGroup="AutomateCreation">Xlist , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Xlist_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassXlist_DoubleClickTopic.html" LinkGroup="AutomateCreation">Xlist_DoubleClick , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Xlist_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassXlist_DoubleClickTopic.html" LinkGroup="AutomateCreation">Xlist_DoubleClick , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.Xlist_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassXlist_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">Xlist_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.Xlist_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassXlist_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">Xlist_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources._new" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClass_newTopic.html" LinkGroup="AutomateCreation">_new , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.aProposDuProgrammeToolStripMenuItem_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassaProposDuProgrammeToolStripMenuItem_ClickTopic.html" LinkGroup="AutomateCreation">aProposDuProgrammeToolStripMenuItem_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.action_back1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassaction_back1Topic.html" LinkGroup="AutomateCreation">action_back1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.action_forward1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassaction_forward1Topic.html" LinkGroup="AutomateCreation">action_forward1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.actualiserToolStripMenuItem_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassactualiserToolStripMenuItem_ClickTopic.html" LinkGroup="AutomateCreation">actualiserToolStripMenuItem_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.add" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassaddTopic.html" LinkGroup="AutomateCreation">add , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.aideToolStripMenuItem_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassaideToolStripMenuItem_ClickTopic.html" LinkGroup="AutomateCreation">aideToolStripMenuItem_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.annuler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassannulerTopic.html" LinkGroup="AutomateCreation">annuler , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.annuler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassannulerTopic.html" LinkGroup="AutomateCreation">annuler , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.annuler_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassannuler_ClickTopic.html" LinkGroup="AutomateCreation">annuler_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.application_edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassapplication_editTopic.html" LinkGroup="AutomateCreation">application_edit , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.arrayListUnion" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassarrayListUnionTopic.html" LinkGroup="AutomateCreation">arrayListUnion , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.arrow_join" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassarrow_joinTopic.html" LinkGroup="AutomateCreation">arrow_join , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.arrow_rotate_anticlockwise" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassarrow_rotate_anticlockwiseTopic.html" LinkGroup="AutomateCreation">arrow_rotate_anticlockwise , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.arrow_switch" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassarrow_switchTopic.html" LinkGroup="AutomateCreation">arrow_switch , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.arrow_undo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassarrow_undoTopic.html" LinkGroup="AutomateCreation">arrow_undo , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.attach" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassattachTopic.html" LinkGroup="AutomateCreation">attach , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.back" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbackTopic.html" LinkGroup="AutomateCreation">back , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.back1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassback1Topic.html" LinkGroup="AutomateCreation">back1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.bg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbgTopic.html" LinkGroup="AutomateCreation">bg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.bg1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbg1Topic.html" LinkGroup="AutomateCreation">bg1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.bg2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbg2Topic.html" LinkGroup="AutomateCreation">bg2 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.bg3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbg3Topic.html" LinkGroup="AutomateCreation">bg3 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.body" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbodyTopic.html" LinkGroup="AutomateCreation">body , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.bodybg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbodybgTopic.html" LinkGroup="AutomateCreation">bodybg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.book_open" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassbook_openTopic.html" LinkGroup="AutomateCreation">book_open , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.box" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassboxTopic.html" LinkGroup="AutomateCreation">box , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.boxbg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassboxbgTopic.html" LinkGroup="AutomateCreation">boxbg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.caracteres" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasscaracteresTopic.html" LinkGroup="AutomateCreation">caracteres , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.caracteres" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasscaracteresTopic.html" LinkGroup="AutomateCreation">caracteres , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.caracteres_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasscaracteres_DoubleClickTopic.html" LinkGroup="AutomateCreation">caracteres_DoubleClick , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.caracteres_DoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasscaracteres_DoubleClickTopic.html" LinkGroup="AutomateCreation">caracteres_DoubleClick , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.caracteres_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasscaracteres_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">caracteres_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.caracteres_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasscaracteres_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">caracteres_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.chart_line" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasschart_lineTopic.html" LinkGroup="AutomateCreation">chart_line , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.clicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassclickedTopic.html" LinkGroup="AutomateCreation">clicked , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.coAccessible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasscoAccessibleTopic.html" LinkGroup="AutomateCreation">coAccessible , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.complementMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasscomplementMI_ClickTopic.html" LinkGroup="AutomateCreation">complementMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.concaténationMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassconcaténationMI_ClickTopic.html" LinkGroup="AutomateCreation">concaténationMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.contains" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasscontainsTopic.html" LinkGroup="AutomateCreation">contains , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.containsFi" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasscontainsFiTopic.html" LinkGroup="AutomateCreation">containsFi , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.contentbg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasscontentbgTopic.html" LinkGroup="AutomateCreation">contentbg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.copyright" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasscopyrightTopic.html" LinkGroup="AutomateCreation">copyright , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Settings.defaultInstance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesSettingsClassdefaultInstanceTopic.html" LinkGroup="AutomateCreation">defaultInstance , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.dejaVu" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassdejaVuTopic.html" LinkGroup="AutomateCreation">dejaVu , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.dragEtat" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassdragEtatTopic.html" LinkGroup="AutomateCreation">dragEtat , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.enregistrerMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassenregistrerMI_ClickTopic.html" LinkGroup="AutomateCreation">enregistrerMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.fade" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassfadeTopic.html" LinkGroup="AutomateCreation">fade , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.fixe_CheckedChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassfixe_CheckedChangedTopic.html" LinkGroup="AutomateCreation">fixe_CheckedChanged , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.fixe_MouseHover" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassfixe_MouseHoverTopic.html" LinkGroup="AutomateCreation">fixe_MouseHover , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.footer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassfooterTopic.html" LinkGroup="AutomateCreation">footer , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getComplementary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetComplementaryTopic.html" LinkGroup="AutomateCreation">getComplementary , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.getEtat" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassgetEtatTopic.html" LinkGroup="AutomateCreation">getEtat , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetInstructionTopic.html" LinkGroup="AutomateCreation">getInstruction , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.getInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassgetInstructionTopic.html" LinkGroup="AutomateCreation">getInstruction , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.getInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassgetInstructionTopic_overloads+.html" LinkGroup="AutomateCreation">getInstruction , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.getInstruction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClassgetInstructionTopic.html" LinkGroup="AutomateCreation">getInstruction , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getInstructionTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetInstructionTableTopic.html" LinkGroup="AutomateCreation">getInstructionTable , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.getInstructionTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassgetInstructionTableTopic.html" LinkGroup="AutomateCreation">getInstructionTable , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getIteration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetIterationTopic.html" LinkGroup="AutomateCreation">getIteration , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getIterationPositive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetIterationPositiveTopic.html" LinkGroup="AutomateCreation">getIterationPositive , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getMirror" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetMirrorTopic.html" LinkGroup="AutomateCreation">getMirror , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.getMirror" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClassgetMirrorTopic.html" LinkGroup="AutomateCreation">getMirror , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.getProductions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassgetProductionsTopic.html" LinkGroup="AutomateCreation">getProductions , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.getType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgetTypeTopic.html" LinkGroup="AutomateCreation">getType , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.getVar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassgetVarTopic.html" LinkGroup="AutomateCreation">getVar , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.getWord" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassgetWordTopic.html" LinkGroup="AutomateCreation">getWord , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.getautomate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassgetautomateTopic.html" LinkGroup="AutomateCreation">getautomate , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.grImage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassgrImageTopic.html" LinkGroup="AutomateCreation">grImage , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.groupBox1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassgroupBox1Topic.html" LinkGroup="AutomateCreation">groupBox1 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.groupBox1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassgroupBox1Topic.html" LinkGroup="AutomateCreation">groupBox1 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.groupBox2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassgroupBox2Topic.html" LinkGroup="AutomateCreation">groupBox2 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.groupBox2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassgroupBox2Topic.html" LinkGroup="AutomateCreation">groupBox2 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.groupBox3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassgroupBox3Topic.html" LinkGroup="AutomateCreation">groupBox3 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.groupBox3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassgroupBox3Topic.html" LinkGroup="AutomateCreation">groupBox3 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.groupBox4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassgroupBox4Topic.html" LinkGroup="AutomateCreation">groupBox4 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.groupBox4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassgroupBox4Topic.html" LinkGroup="AutomateCreation">groupBox4 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.h2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassh2Topic.html" LinkGroup="AutomateCreation">h2 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.h2_back" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassh2_backTopic.html" LinkGroup="AutomateCreation">h2_back , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.header" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassheaderTopic.html" LinkGroup="AutomateCreation">header , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.header1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassheader1Topic.html" LinkGroup="AutomateCreation">header1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.headerbg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassheaderbgTopic.html" LinkGroup="AutomateCreation">headerbg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.help" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasshelpTopic.html" LinkGroup="AutomateCreation">help , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.information" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassinformationTopic.html" LinkGroup="AutomateCreation">information , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.initial" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassinitialTopic.html" LinkGroup="AutomateCreation">initial , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.initial" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassinitialTopic.html" LinkGroup="AutomateCreation">initial , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.initialList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassinitialListTopic.html" LinkGroup="AutomateCreation">initialList , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.initialList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassinitialListTopic.html" LinkGroup="AutomateCreation">initialList , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.initialList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClassinitialList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">initialList_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.initialList_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClassinitialList_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">initialList_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.intro_text_box" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassintro_text_boxTopic.html" LinkGroup="AutomateCreation">intro_text_box , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.isComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassisCompleteTopic.html" LinkGroup="AutomateCreation">isComplete , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.isConverted" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassisConvertedTopic.html" LinkGroup="AutomateCreation">isConverted , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.isReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClassisReducedTopic.html" LinkGroup="AutomateCreation">isReduced , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.isValidLetter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClassisValidLetterTopic.html" LinkGroup="AutomateCreation">isValidLetter , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.itérationMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassitérationMI_ClickTopic.html" LinkGroup="AutomateCreation">itérationMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.itérationPositiveMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassitérationPositiveMI_ClickTopic.html" LinkGroup="AutomateCreation">itérationPositiveMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel1Topic.html" LinkGroup="AutomateCreation">label1 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel1Topic.html" LinkGroup="AutomateCreation">label1 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel2Topic.html" LinkGroup="AutomateCreation">label2 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel2Topic.html" LinkGroup="AutomateCreation">label2 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel3Topic.html" LinkGroup="AutomateCreation">label3 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel3Topic.html" LinkGroup="AutomateCreation">label3 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel4Topic.html" LinkGroup="AutomateCreation">label4 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label4" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel4Topic.html" LinkGroup="AutomateCreation">label4 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label5" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel5Topic.html" LinkGroup="AutomateCreation">label5 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label5" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel5Topic.html" LinkGroup="AutomateCreation">label5 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label6" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel6Topic.html" LinkGroup="AutomateCreation">label6 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label6" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel6Topic.html" LinkGroup="AutomateCreation">label6 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.label7" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabel7Topic.html" LinkGroup="AutomateCreation">label7 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.label7" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabel7Topic.html" LinkGroup="AutomateCreation">label7 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.labelEtats" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabelEtatsTopic.html" LinkGroup="AutomateCreation">labelEtats , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.labelEtats" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabelEtatsTopic.html" LinkGroup="AutomateCreation">labelEtats , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.labelEtatsFinaux" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasslabelEtatsFinauxTopic.html" LinkGroup="AutomateCreation">labelEtatsFinaux , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.labelEtatsFinaux" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasslabelEtatsFinauxTopic.html" LinkGroup="AutomateCreation">labelEtatsFinaux , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.left_title_bg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassleft_title_bgTopic.html" LinkGroup="AutomateCreation">left_title_bg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.line" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasslineTopic.html" LinkGroup="AutomateCreation">line , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassTopic.html" LinkGroup="AutomateCreation">main , classe</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.main" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassctorTopic.html" LinkGroup="AutomateCreation">main , constructeur</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.main_FormClosing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassmain_FormClosingTopic.html" LinkGroup="AutomateCreation">main_FormClosing , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.main_KeyDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassmain_KeyDownTopic.html" LinkGroup="AutomateCreation">main_KeyDown , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.main_KeyPress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassmain_KeyPressTopic.html" LinkGroup="AutomateCreation">main_KeyPress , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.main_Load" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassmain_LoadTopic.html" LinkGroup="AutomateCreation">main_Load , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.mainbar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmainbarTopic.html" LinkGroup="AutomateCreation">mainbar , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menu" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenuTopic.html" LinkGroup="AutomateCreation">menu , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menu1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenu1Topic.html" LinkGroup="AutomateCreation">menu1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menu2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenu2Topic.html" LinkGroup="AutomateCreation">menu2 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menu_r" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenu_rTopic.html" LinkGroup="AutomateCreation">menu_r , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menu_r1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenu_r1Topic.html" LinkGroup="AutomateCreation">menu_r1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.menubottom" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassmenubottomTopic.html" LinkGroup="AutomateCreation">menubottom , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.miroirMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassmiroirMI_ClickTopic.html" LinkGroup="AutomateCreation">miroirMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.myPointArray" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClassmyPointArrayTopic.html" LinkGroup="AutomateCreation">myPointArray , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.newsletterbg" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassnewsletterbgTopic.html" LinkGroup="AutomateCreation">newsletterbg , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.nouvDeterministeMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassnouvDeterministeMI_ClickTopic.html" LinkGroup="AutomateCreation">nouvDeterministeMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.nouvFromGrammaireMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassnouvFromGrammaireMI_ClickTopic.html" LinkGroup="AutomateCreation">nouvFromGrammaireMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.nouvGénéraliséMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassnouvGénéraliséMI_ClickTopic.html" LinkGroup="AutomateCreation">nouvGénéraliséMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.nouvNonDeterministeMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassnouvNonDeterministeMI_ClickTopic.html" LinkGroup="AutomateCreation">nouvNonDeterministeMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.nouvPartiellementGénéraliséMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassnouvPartiellementGénéraliséMI_ClickTopic.html" LinkGroup="AutomateCreation">nouvPartiellementGénéraliséMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.ouvrirMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassouvrirMI_ClickTopic.html" LinkGroup="AutomateCreation">ouvrirMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.ouvrirUnWorkspaceToolStripMenuItem_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassouvrirUnWorkspaceToolStripMenuItem_ClickTopic.html" LinkGroup="AutomateCreation">ouvrirUnWorkspaceToolStripMenuItem_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.page_edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspage_editTopic.html" LinkGroup="AutomateCreation">page_edit , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.page_refresh" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspage_refreshTopic.html" LinkGroup="AutomateCreation">page_refresh , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.page_save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspage_saveTopic.html" LinkGroup="AutomateCreation">page_save , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.page_save1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspage_save1Topic.html" LinkGroup="AutomateCreation">page_save1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.page_white_word" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspage_white_wordTopic.html" LinkGroup="AutomateCreation">page_white_word , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.panel1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasspanel1Topic.html" LinkGroup="AutomateCreation">panel1 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.panel1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasspanel1Topic.html" LinkGroup="AutomateCreation">panel1 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.panel2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasspanel2Topic.html" LinkGroup="AutomateCreation">panel2 , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.panel2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasspanel2Topic.html" LinkGroup="AutomateCreation">panel2 , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.pic" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasspicTopic.html" LinkGroup="AutomateCreation">pic , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.pictureBox1_MouseHover" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasspictureBox1_MouseHoverTopic.html" LinkGroup="AutomateCreation">pictureBox1_MouseHover , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.pictureBox3_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasspictureBox3_ClickTopic.html" LinkGroup="AutomateCreation">pictureBox3_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.quiterMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassquiterMI_ClickTopic.html" LinkGroup="AutomateCreation">quiterMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.AutomateReader.read" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutomateReaderClassreadTopic.html" LinkGroup="AutomateCreation">read , méthode {Automates.AutomateReader}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.workspace.read" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesworkspaceClassreadTopic.html" LinkGroup="AutomateCreation">read , méthode {Automates.workspace}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.refrech2_MouseLeave" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassrefrech2_MouseLeaveTopic.html" LinkGroup="AutomateCreation">refrech2_MouseLeave , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.refrech_LinkClicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassrefrech_LinkClickedTopic.html" LinkGroup="AutomateCreation">refrech_LinkClicked , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.resetInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassresetInfoTopic.html" LinkGroup="AutomateCreation">resetInfo , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.resourceCulture" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassresourceCultureTopic.html" LinkGroup="AutomateCreation">resourceCulture , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.resourceMan" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClassresourceManTopic.html" LinkGroup="AutomateCreation">resourceMan , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.sauvegarderLeDessinToolStripMenuItem_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasssauvegarderLeDessinToolStripMenuItem_ClickTopic.html" LinkGroup="AutomateCreation">sauvegarderLeDessinToolStripMenuItem_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.workspace.save" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesworkspaceClasssaveTopic.html" LinkGroup="AutomateCreation">save , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.saveRTF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasssaveRTFTopic.html" LinkGroup="AutomateCreation">saveRTF , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.setType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasssetTypeTopic.html" LinkGroup="AutomateCreation">setType , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.supprimer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasssupprimerTopic.html" LinkGroup="AutomateCreation">supprimer , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.supprimer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasssupprimerTopic.html" LinkGroup="AutomateCreation">supprimer , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.supprimer_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasssupprimer_ClickTopic.html" LinkGroup="AutomateCreation">supprimer_Click , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.supprimer_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasssupprimer_ClickTopic.html" LinkGroup="AutomateCreation">supprimer_Click , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.tabPage2_Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasstabPage2_PaintTopic.html" LinkGroup="AutomateCreation">tabPage2_Paint , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.tabPage3_Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasstabPage3_PaintTopic.html" LinkGroup="AutomateCreation">tabPage3_Paint , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.title" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasstitleTopic.html" LinkGroup="AutomateCreation">title , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.title1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasstitle1Topic.html" LinkGroup="AutomateCreation">title1 , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Properties.Resources.title_back" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPropertiesResourcesClasstitle_backTopic.html" LinkGroup="AutomateCreation">title_back , propriété</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoCompleteTopic.html" LinkGroup="AutomateCreation">toComplete , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoCompleteTopic.html" LinkGroup="AutomateCreation">toComplete , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoCompleteTopic.html" LinkGroup="AutomateCreation">toComplete , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoCompleteTopic.html" LinkGroup="AutomateCreation">toComplete , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoCompleteTopic.html" LinkGroup="AutomateCreation">toComplete , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoDfaTopic.html" LinkGroup="AutomateCreation">toDfa , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoDfaTopic.html" LinkGroup="AutomateCreation">toDfa , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoDfaTopic.html" LinkGroup="AutomateCreation">toDfa , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoDfaTopic.html" LinkGroup="AutomateCreation">toDfa , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toDfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoDfaTopic.html" LinkGroup="AutomateCreation">toDfa , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoGfaTopic.html" LinkGroup="AutomateCreation">toGfa , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toGrammer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoGrammerTopic.html" LinkGroup="AutomateCreation">toGrammer , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoIndexTopic.html" LinkGroup="AutomateCreation">toIndex , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoIndexTopic_overloads+.html" LinkGroup="AutomateCreation">toIndex , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Grammer.toIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGrammerClasstoIndexTopic.html" LinkGroup="AutomateCreation">toIndex , méthode {Automates.Grammer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoNfaTopic.html" LinkGroup="AutomateCreation">toNfa , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoNfaTopic.html" LinkGroup="AutomateCreation">toNfa , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoNfaTopic.html" LinkGroup="AutomateCreation">toNfa , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoNfaTopic.html" LinkGroup="AutomateCreation">toNfa , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toNfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoNfaTopic.html" LinkGroup="AutomateCreation">toNfa , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoPGfaTopic.html" LinkGroup="AutomateCreation">toPGfa , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoPGfaTopic.html" LinkGroup="AutomateCreation">toPGfa , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoPGfaTopic.html" LinkGroup="AutomateCreation">toPGfa , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoPGfaTopic.html" LinkGroup="AutomateCreation">toPGfa , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toPGfa" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoPGfaTopic.html" LinkGroup="AutomateCreation">toPGfa , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.toReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstoReducedTopic.html" LinkGroup="AutomateCreation">toReduced , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.toReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstoReducedTopic.html" LinkGroup="AutomateCreation">toReduced , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.toReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstoReducedTopic.html" LinkGroup="AutomateCreation">toReduced , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.toReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstoReducedTopic.html" LinkGroup="AutomateCreation">toReduced , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.toReduced" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstoReducedTopic.html" LinkGroup="AutomateCreation">toReduced , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.toolStripTextBox1_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClasstoolStripTextBox1_ClickTopic.html" LinkGroup="AutomateCreation">toolStripTextBox1_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automata.trace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomataClasstraceTopic.html" LinkGroup="AutomateCreation">trace , méthode {Automata}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Dfa.trace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaClasstraceTopic.html" LinkGroup="AutomateCreation">trace , méthode {Automates.Dfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Gfa.trace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesGfaClasstraceTopic.html" LinkGroup="AutomateCreation">trace , méthode {Automates.Gfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Nfa.trace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaClasstraceTopic.html" LinkGroup="AutomateCreation">trace , méthode {Automates.Nfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.PGfa.trace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesPGfaClasstraceTopic.html" LinkGroup="AutomateCreation">trace , méthode {Automates.PGfa}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.transitions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasstransitionsTopic.html" LinkGroup="AutomateCreation">transitions , champ {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.transitions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasstransitionsTopic.html" LinkGroup="AutomateCreation">transitions , champ {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.transitions_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasstransitions_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">transitions_SelectedIndexChanged , méthode {Automates.DfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.NfaCreation.transitions_SelectedIndexChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesNfaCreationClasstransitions_SelectedIndexChangedTopic.html" LinkGroup="AutomateCreation">transitions_SelectedIndexChanged , méthode {Automates.NfaCreation}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.DfaCreation.tripletToII" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesDfaCreationClasstripletToIITopic.html" LinkGroup="AutomateCreation">tripletToII , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.Auto.type" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesAutoClasstypeTopic.html" LinkGroup="AutomateCreation">type , champ</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.main.unionMI_Click" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesmainClassunionMI_ClickTopic.html" LinkGroup="AutomateCreation">unionMI_Click , méthode</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Automates.workspace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:AutomateCreation.chm::/frlrfAutomatesworkspaceClassTopic.html" LinkGroup="AutomateCreation">workspace , classe</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

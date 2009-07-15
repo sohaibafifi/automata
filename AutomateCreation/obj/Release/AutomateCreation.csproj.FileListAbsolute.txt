@@ -1,0 +1,90 @@
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\bin\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\bin\Release\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application\AutomateCreation\obj\Release\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\obj\Release\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\bin\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before privilege\AutomateCreation\bin\Release\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automates.StartUp.resources
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\bin\Release\Automate.exe
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\bin\Release\Automate.pdb
+C:\Documents and Settings\user\Bureau\Automates Final\Application - before change GUI\AutomateCreation\obj\Release\Automate.pdb
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automate.exe
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automate.pdb
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\Automate.exe
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\Automate.pdb
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\Ionic.Zip.Reduced.dll
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\Ionic.Zip.Reduced.pdb
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\Ionic.Zip.Reduced.xml
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.main.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.Splash.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.PGfaCreation.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.GfaCreation.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.GrammerCreation.resources
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.Two_Selector.resources
+D:\developpement\Thl\2\program\AutomateCreation\bin\Release\AutomateCreation.chm
+D:\developpement\Thl\2\program\AutomateCreation\obj\Release\Automates.About.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automate.exe
+D:\Disk\source\AutomateCreation\obj\Release\Automate.pdb
+D:\Disk\source\AutomateCreation\bin\Release\AutomateCreation.chm
+D:\Disk\source\AutomateCreation\bin\Release\Automate.exe
+D:\Disk\source\AutomateCreation\bin\Release\Automate.pdb
+D:\Disk\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.dll
+D:\Disk\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.pdb
+D:\Disk\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.xml
+D:\Disk\source\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+D:\Disk\source\AutomateCreation\obj\Release\Automates.About.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.GrammerCreation.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.GfaCreation.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.PGfaCreation.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.main.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.Splash.resources
+D:\Disk\source\AutomateCreation\obj\Release\Automates.Two_Selector.resources
+D:\Disk\source\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache
+D:\DiskThl\source\AutomateCreation\obj\Release\Automate.exe
+D:\DiskThl\source\AutomateCreation\obj\Release\Automate.pdb
+D:\DiskThl\source\AutomateCreation\bin\Release\AutomateCreation.chm
+D:\DiskThl\source\AutomateCreation\bin\Release\Automate.exe
+D:\DiskThl\source\AutomateCreation\bin\Release\Automate.pdb
+D:\DiskThl\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.dll
+D:\DiskThl\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.pdb
+D:\DiskThl\source\AutomateCreation\bin\Release\Ionic.Zip.Reduced.xml
+D:\DiskThl\source\AutomateCreation\obj\Release\ResolveAssemblyReference.cache
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.About.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.GrammerCreation.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.GfaCreation.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.PGfaCreation.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.NfaCreation.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.DfaCreation.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.main.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.Properties.Resources.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.Splash.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\Automates.Two_Selector.resources
+D:\DiskThl\source\AutomateCreation\obj\Release\AutomateCreation.csproj.GenerateResource.Cache

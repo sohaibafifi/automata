@@ -1,0 +1,16 @@
+<Automate>
+  <Name>Automate1 (Dfa)</Name>
+  <Type>Dfa</Type>
+  <X>
+      <car>1</car>
+      <car>4</car>
+  </X>
+  <S0>0</S0>
+  <S>4</S>
+  <F>
+      <fi>1</fi>
+  </F>
+  <I>
+      <triplet>(1,4,2)</triplet>
+  </I>
+</Automate>

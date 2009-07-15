@@ -1,0 +1,17 @@
+<Automate>
+  <Name>Automate0</Name>
+  <Type>Nfa</Type>
+  <X>
+      <car>2</car>
+      <car>3</car>
+      <car>4</car>
+  </X>
+  <S0>0</S0>
+  <S>4</S>
+  <F>
+      <fi>1</fi>
+  </F>
+  <I>
+      <triplet>(1,3,3)</triplet>
+  </I>
+</Automate>
